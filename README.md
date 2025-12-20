@@ -2,7 +2,7 @@
 
 ### Flutter Developer
 
-I am a Prague based **Flutter Developer** with a background in technical engineering and a deep interest in how technology drives business. I don't just write code, I build tools that solve real world problems and align with business goals.
+I am a Prague based **Flutter Developer** with a background in technical engineering. I don't just write code, I build tools that solve problems and align with business goals.
 
 ---
 
@@ -17,18 +17,12 @@ I am a Prague based **Flutter Developer** with a background in technical enginee
 
 ### 🛠 Tech Stack & Tools
 
-- **Languages:** Dart, JavaScript, HTML
+- **Languages:** Dart, JavaScript, HTML, Python
 - **Frameworks:** Flutter (Mobile, Web)
 - **State Management:** Provider, Riverpod, Bloc
 - **Backend/Tools:** Firebase, REST APIs, Git
 - **Business:** Project Management, Economic Analysis, Strategic Planning
 
----
-
-### 📊 My Approach to Development
-> "Code is a means to an end. The goal is to create value for the user and the business."
-
-Because of my studies in Management, I bridge the gap between **technical implementation** and **business requirements**. I am a "workaholic" when a project captures my interest, and I am committed to 100% delivery.
 
 ---
 
