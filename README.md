@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there, I'm Sami! 🚀
 
-<!--
-**samiappdev/samiappdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Flutter Developer
 
-Here are some ideas to get you started:
+I am a Prague based **Flutter Developer** with a background in technical engineering and a deep interest in how technology drives business. I don't just write code, I build tools that solve real world problems and align with business goals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💫 About Me
+- 📱 **Current Focus:** Developing high-performance, cross-platform mobile applications using **Flutter & Dart**.
+- 🎓 **Education:** Studying **Economics and Management** (BSc), which allows me to understand the "why" behind the software.
+- 🧠 **Mindset:** High cognitive capacity for solving complex logical puzzles and algorithmic challenges. I thrive on problems that require deep thinking.
+- 🇨🇿 **Background:** Born and raised in **Prague** (Native Czech speaker).
+- 💼 **Status:** Ready for B2B cooperation and remote projects.
+
+---
+
+### 🛠 Tech Stack & Tools
+
+- **Languages:** Dart, JavaScript, HTML
+- **Frameworks:** Flutter (Mobile, Web)
+- **State Management:** Provider, Riverpod, Bloc
+- **Backend/Tools:** Firebase, REST APIs, Git
+- **Business:** Project Management, Economic Analysis, Strategic Planning
+
+---
+
+### 📊 My Approach to Development
+> "Code is a means to an end. The goal is to create value for the user and the business."
+
+Because of my studies in Management, I bridge the gap between **technical implementation** and **business requirements**. I am a "workaholic" when a project captures my interest, and I am committed to 100% delivery.
+
+---
+
+### 📫 Connect with me:
+- **LinkedIn:** [linkedin.com/in/sami-ali-970b9b248/](https://www.linkedin.com/in/sami-ali-970b9b248/)
+
+---
