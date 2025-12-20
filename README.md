@@ -1,4 +1,4 @@
-# Hi there, I'm Sami! 🚀
+# Hi, I'm Sami. 👋
 
 ### Flutter Developer
 
@@ -6,10 +6,9 @@ I am a Prague based **Flutter Developer** with a background in technical enginee
 
 ---
 
-### 💫 About Me
+### About Me
 - 📱 **Current Focus:** Developing high-performance, cross-platform mobile applications using **Flutter & Dart**.
 - 🎓 **Education:** Studying **Economics and Management** (BSc), which allows me to understand the "why" behind the software.
-- 🧠 **Mindset:** High cognitive capacity for solving complex logical puzzles and algorithmic challenges. I thrive on problems that require deep thinking.
 - 🇨🇿 **Background:** Born and raised in **Prague** (Native Czech speaker).
 - 💼 **Status:** Ready for B2B cooperation and remote projects.
 
@@ -21,7 +20,6 @@ I am a Prague based **Flutter Developer** with a background in technical enginee
 - **Frameworks:** Flutter (Mobile, Web)
 - **State Management:** Provider, Riverpod, Bloc
 - **Backend/Tools:** Firebase, REST APIs, Git
-- **Business:** Project Management, Economic Analysis, Strategic Planning
 
 
 ---
