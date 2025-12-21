@@ -24,7 +24,7 @@ I am a Prague based **Flutter Developer** with a background in technical enginee
 ---
 
 ### 📫 Connect with me:
-- **LinkedIn:** [linkedin.com/in/sami-ali-970b9b248/](https://www.linkedin.com/in/sami-ali-970b9b248/)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/samiappdev)
 
 
 ---
