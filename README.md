@@ -8,8 +8,7 @@ I am a Prague based **Flutter Developer** with a background in technical enginee
 
 ### About Me
 - 📱 **Current Focus:** Developing high-performance, cross-platform mobile applications using **Flutter & Dart**.
-- 🎓 **Education:** Studying **Economics and Management** (BSc), which allows me to understand the "why" behind the software.
-- 🇨🇿 **Background:** Born and raised in **Prague** (Native Czech speaker).
+- 🇨🇿 **Background:** Born and raised in **Prague** (Fluent in English and Czech).
 - 💼 **Status:** Ready for B2B cooperation and remote projects.
 
 ---
@@ -28,3 +27,10 @@ I am a Prague based **Flutter Developer** with a background in technical enginee
 - **LinkedIn:** [linkedin.com/in/sami-ali-970b9b248/](https://www.linkedin.com/in/sami-ali-970b9b248/)
 
 ---
+
+---
+
+### 👨‍💻 My work:
+<img width="1080" height="1350" alt="@samiappdev" src="https://github.com/user-attachments/assets/bf2d6643-0116-469f-8f7d-cb1f04d173fa" />
+<img width="1080" height="1350" alt="@samiappdev-2" src="https://github.com/user-attachments/assets/2a3b1b91-dde8-41c4-ad0c-bf3e019f69af" />
+
