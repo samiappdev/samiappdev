@@ -25,6 +25,8 @@ I am a Prague based **Flutter Developer** with a background in technical enginee
 
 ### 📫 Connect with me:
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/samiappdev)
+- **Instagram:** [Instagram](https://www.instagram.com/samiappdev/)
+- **E-mail:** **[samiappdev@outlook.com](mailto:samiappdev@outlook.com)**
 
 
 ---
