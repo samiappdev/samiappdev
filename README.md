@@ -31,6 +31,8 @@ I am a Prague based **Flutter Developer** with a background in technical enginee
 ---
 
 ### 👨‍💻 My work:
-<img width="1080" height="1350" alt="@samiappdev" src="https://github.com/user-attachments/assets/bf2d6643-0116-469f-8f7d-cb1f04d173fa" />
-<img width="1080" height="1350" alt="@samiappdev-2" src="https://github.com/user-attachments/assets/2a3b1b91-dde8-41c4-ad0c-bf3e019f69af" />
+<p align="left">
+  <img width="250" alt="@samiappdev" src="https://github.com/user-attachments/assets/bf2d6643-0116-469f-8f7d-cb1f04d173fa" />
+  &nbsp; &nbsp; <img width="250" alt="@samiappdev-2" src="https://github.com/user-attachments/assets/2a3b1b91-dde8-41c4-ad0c-bf3e019f69af" />
+</p>
 
