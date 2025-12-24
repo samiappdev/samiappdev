@@ -37,6 +37,6 @@ I am a Prague based **Flutter Developer** with a background in technical enginee
   &nbsp; &nbsp; 
   <img width="250" alt="@samiappdev-2" src="https://github.com/user-attachments/assets/2a3b1b91-dde8-41c4-ad0c-bf3e019f69af" />
   &nbsp; &nbsp;
-  <img width="200" height="355" alt="AuthApp - preview" src="https://github.com/user-attachments/assets/207badcb-70c3-4ead-a526-da44300507cd" />
+  <img width="180" height="320" alt="AuthApp - preview" src="https://github.com/user-attachments/assets/207badcb-70c3-4ead-a526-da44300507cd" />
 </p>
 
